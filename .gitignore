@@ -1,10 +1,12 @@
 # data files
 data/
 datasets/
+results/
+logs/
+*.npy
 
 # vscode
 .vscode/
-logs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
